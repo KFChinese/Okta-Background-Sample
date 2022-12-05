@@ -33,7 +33,7 @@ or
 
 ## Common Issues
 
-If Output States ***"Port is already Used"***, Please Press ***"Runtime"***, and
+If Output States: ***"Port is already Used"***, Please Press: ***"Runtime"***, and
 
 ***"Disconnect and delete Runtime"*** to Resolve issue
 
