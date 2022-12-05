@@ -31,7 +31,7 @@ or
 
 4) Click on Stop Button and Press Play Again for New Background
 
-### Common Issues
+## Common Issues
 
 If Output States "Port is already Used", Please Press Runtime
 
