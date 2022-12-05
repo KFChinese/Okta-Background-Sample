@@ -1,12 +1,12 @@
 # Okta-Background-Sample
 <a href="https://colab.research.google.com/drive/1q4iRmsjdCQPbEnRY420ncmEXQs4Qxm3Y?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
-## The point of this project
+## The Point of this Project
 
 Why risk on putting something bad/awkward in production, or to go to your Okta Admin when all you need to do is to upload/paste your background on this Google Colab?
 
 ## Minimum requirements
-a Less than 2mb background picture to upload (Okta's requirement, you can go bigger in Colab, just remember to make the picture less than 2mb when uploading to okta.
+a Less than 2mb background picture to upload (Okta's requirement, you can go bigger in Colab, just remember to make the picture less than 2mb when uploading to Okta.
 
 *Not a requirement, but Highly Recomended* 
 Picture will strech to fit, but looks best with
@@ -26,3 +26,6 @@ Picture will strech to fit, but looks best with
 or
 
 2B. Paste Picture Link to Input
+
+## All Rights Reserved
+All Rights reserved to [Okta, Inc.](https://okta.com)
