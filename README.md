@@ -19,13 +19,25 @@ Picture will strech to fit, but looks best with
 2) [Paste](https://colab.research.google.com/drive/1q4iRmsjdCQPbEnRY420ncmEXQs4Qxm3Y#scrollTo=3XrzSzwriZbg&line=12&uniqifier=1) Picture Link
 
 ## Steps to follow
-1. Clone the Repo
+1) Clone the Repo (Click on Play Button)
 
-2A. Upload Photo From Desktop
+2A) Upload Photo From Desktop (Click on Play Button)
 
 or
 
-2B. Paste Picture Link to Input
+2B) Paste Picture Link to Input (Click on Play Button)
+
+3) Click on Link in Output to Show site
+
+4) Click on Stop Button and Press Play Again for New Background
+
+### Common Issues
+
+If Output States "Port is already Used", Please Press Runtime
+
+and 
+
+Disconnect and delete Runtime to Resolve issue
 
 ## All Rights Reserved
 All Rights reserved to [Okta, Inc.](https://okta.com)
