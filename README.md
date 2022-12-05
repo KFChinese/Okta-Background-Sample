@@ -5,7 +5,7 @@
 
 Why risk on putting something bad/awkward in production, or to go to your Okta Admin when all you need to do is to upload/paste your background on this Google Colab?
 
-## Minimum requirements
+## Minimum Requirements
 a Less than 2mb background picture to upload (Okta's requirement, you can go bigger in Colab, just remember to make the picture less than 2mb when uploading to Okta.
 
 *Not a requirement, but Highly Recomended* 
